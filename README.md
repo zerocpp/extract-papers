@@ -20,3 +20,4 @@ pip install bs4 lxml
 增加列category：根据summary和keywords给论文分类，例如RAG、Agent；
 保持其他列不变，输出扩展后的csv文件。
 ```
+得到：output/iclr26_papers_extended.csv
